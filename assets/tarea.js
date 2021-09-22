@@ -265,7 +265,7 @@ console.log(total);*/
 /* 13) Determinar el aumento de un trabajador, se debe tomar en cuenta que si ganaba más de 
 $2000 tendrá un aumento del 5%, si generaba menos de $2000 su aumento será de un 10%. */
 
-let sueldo=parseInt(prompt('¿cual es tu sueldo semanal?'));
+/*let sueldo=parseInt(prompt('¿cual es tu sueldo semanal?'));
 let aumento;
 if(sueldo<2000){
    console.log('tu aumento del 10% es de:');
@@ -274,4 +274,4 @@ if(sueldo<2000){
    console.log('tu aumento del 5% es de:');
    aumento=(sueldo*.05);
 }
-console.log(aumento)
+console.log(aumento)*/
